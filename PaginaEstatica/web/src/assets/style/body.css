@@ -1,0 +1,23 @@
+#ext{
+    width: 98%;
+    /* background-color:black; */
+    border-style: groove;
+    border-color: black;
+    background-color: #F6E3CA;
+    /* border: 4px dotted blue; */
+    margin-top:10px;
+    padding:10px;
+    display: inline-block;
+}
+#main-texto2{
+    position: relative;
+    display: inline-block;
+    height: 1200%;
+    width: 85.2%;
+    top: -600px;
+    left: 20%;
+    border: 2px black;
+    border-style: solid;
+    list-style: none;
+}
+

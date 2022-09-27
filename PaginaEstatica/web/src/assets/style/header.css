@@ -1,0 +1,36 @@
+nav{
+    border: 3px black;
+    border-style: solid;
+    background-color:greenyellow;
+    box-shadow: rgb(0 0 0 / 40%) 0px 0px 4px;
+}
+.contenedor {
+    position:relative;
+    width:100%;
+    height: auto;
+}
+.titulo {
+    position: absolute;
+    display: inline-block;
+    width: 70%;
+    top: 2%;
+    font-size: 80px;
+    
+}
+.nav-ul_menu {
+    list-style: none;
+    text-align:right;
+    margin-right: 1%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+}
+.nav-ul_menu a{
+    text-decoration: none;
+}
+#logo{
+    width: 150px;
+    position: absolute;
+    left: auto;
+    top: -18px;
+    transform: translateX(30%);
+}

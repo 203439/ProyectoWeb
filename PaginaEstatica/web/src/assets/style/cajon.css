@@ -1,0 +1,31 @@
+.main-texto {
+    list-style-type: none;
+    text-align: right;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+.contenedor2 {
+    position:relative;
+    width:auto;
+    border: 3px black;
+    border-style: solid;
+    height: auto;
+    margin-top: 0.5%;
+    background-color:greenyellow;
+    box-shadow: rgb(0 0 0 / 40%) 0px 0px 4px;
+}
+.main-texto li{
+    background-color: whitesmoke;
+    border: #D7C8B6 2px solid;
+    display: inline;
+    margin-right: 10px;
+}
+.main-texto a{
+    color: black;
+    padding: 0 4px;
+    text-decoration: none;
+}
+a:hover {
+    background-color: white;
+    color: #D7C8B6;
+  }
